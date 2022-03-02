@@ -2,11 +2,11 @@
 A script that shortens a video based on its volume.
 
 ## Requirements
-```shell
+```bash
 pip
 ```
 
 ## Usage
-```
+```bash
 VAI.py [Filename]
 ```
