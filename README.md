@@ -1,5 +1,6 @@
 # VAI
 A script that shortens a video based on its volume.
+### Note: Still in the test phase
 
 ## Requirements
 ```bash
