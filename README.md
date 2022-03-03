@@ -2,6 +2,9 @@
 A script that shortens a video based on its volume.
 #### Note: Still under development with a few bugs.
 
+## Screenshot
+![alt text](https://github.com/Flederossi/VAI/blob/main/Screen.png)
+
 ## Requirements
 ```bash
 pip install numpy
